@@ -1,0 +1,27 @@
+{
+    "name": "@rushyantha/demoapp",
+    "version": "1.0.0",
+    "description": "demo",
+    "main": "index.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "author": "rushyantha",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/Rushyantha/demoapp.git"
+    },
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com"
+    },
+    "keywords": [],
+    "bugs": {
+      "url": "https://github.com/Rushyantha/demoapp/issues"
+    },
+    "homepage": "https://github.com/Rushyantha/demoapp#readme",
+    "dependencies": {
+      "user": "^0.0.0"
+    }
+  }
+  
